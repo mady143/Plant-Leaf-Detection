@@ -48,9 +48,9 @@ Download model from the following link from  https://drive.google.com/file/d/1FZ
   38. Tomato-> healthy
 
 # Requirements:
-  01. Python
-  02. Tensorflow
-  03. Keras
-  04. Flask
-  05. PIL
-  06. Numpy
+  01. Python==3.6.9
+  02. Tensorflow==1.14.0
+  03. Keras==2.2.4
+  04. Flask==1.1.2
+  05. PIL==6.2.2 or Pillow==6.2.2
+  06. Numpy==1.19.0

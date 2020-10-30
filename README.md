@@ -3,6 +3,7 @@
 
 Download model from the following link from  https://drive.google.com/file/d/1fl2DL3ozjF12nO0rZyTgl_MpzLDMxzc7/view?usp=sharing
 
+Download dataset from the following link from https://drive.google.com/file/d/1gAuNdfYzfTpELZPMxUOET5ssI32b_0zM/view?usp=sharing
 
 # Deep Learning Based Plant Diseases Recognition
   This Flask based web application uses a trained convolutional neural network to identify the disease present on a plant leaf. It consists of 38 classes of 

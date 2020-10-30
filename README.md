@@ -1,7 +1,7 @@
 # Plant-Leaf-Detection
 
 
-Download model from the following link from  https://drive.google.com/file/d/1FZXraDDPqbRTX-QeiQclfojgtoLddxQ_/view
+Download model from the following link from  https://drive.google.com/file/d/1fl2DL3ozjF12nO0rZyTgl_MpzLDMxzc7/view?usp=sharing
 
 
 # Deep Learning Based Plant Diseases Recognition

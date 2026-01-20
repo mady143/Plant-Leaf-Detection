@@ -1,0 +1,8 @@
+
+Flask
+tensorflow
+numpy
+keras
+matplotlib
+seaborn
+pillow
